@@ -1,10 +1,18 @@
-<h1 align="center">Oi, Eu sou o LittleRob120</h1>
-<h3 align="center">Apaixonado por Desenvolvimento de Software Multiplataforma</h3>
+<h1 align="center">Olá</h1>
+<h3 align="center">Gabriel Robert Sousa da Silva</h3>
 
-- 🔭 Atualmente estudando na FATEC e trabalhando no projeto facultativo: **API**
+- 🔭Formação: Cursando Desenvolvimento de SoUware MulIplataforma – Fatec - SJC
 
-- 🌱 Atualmente estou aprendendo **Python, Modelagem de Banco de dado, Estrutura de Software, Desenvolvimento Web e Sistemas Operacionais e Rede de Computadores**
+- Objetivo: "Me especializar na área de Desenvolvimento de Software Multiplataforma, sendo Full-Stack."
 
+ Formação Acadêmica:
+ - Cursando Desenvolvimento de SoUware MulIplataforma – FATEC - SJC (2024-
+202X)
+
+ Certificados:
+ - Desenvolvimento de Jogos - Saga - Sjc (2018 - 2021)
+ - Desenvolvimento de Sites - Senai - Sjc (2021 - 2021)
+  
 - 📫 Contatos: **gabriel360pam@gmail.com**
 
 - ⚡ Passatempos **Eu gosto de montar "Cubos Mágicos" e aprender coisas novas**
