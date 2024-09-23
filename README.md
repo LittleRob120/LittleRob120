@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, Modelagem de Banco de dado, Estrutura de Software, Desenvolvimento Web e Sistemas Operacionais e Rede de Computadores**
 
-- 📫 Contatos: **gabriel360pam@gmail.com, (linkedin), (Instagram)**
+- 📫 Contatos: **gabriel360pam@gmail.com**
 
 - ⚡ Passatempos **Eu gosto de montar "Cubos Mágicos" e aprender coisas novas**
 
