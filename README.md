@@ -12,10 +12,12 @@
  Certificados:
  - Desenvolvimento de Jogos - Saga - Sjc (2018 - 2021)
  - Desenvolvimento de Sites - Senai - Sjc (2021 - 2021)
-  
-- Contatos: **gabriel360pam@gmail.com**
 
-- Passatempos **Eu gosto de montar "Cubos Mágicos" e aprender coisas novas**
+
+ Contato: **gabriel360pam@gmail.com**
+
+
+ Passatempos **Eu gosto de montar "Cubos Mágicos" e aprender coisas novas!**
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
