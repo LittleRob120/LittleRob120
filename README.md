@@ -1,7 +1,7 @@
 <h1 align="center">Olá</h1>
 <h3 align="center">Gabriel Robert Sousa da Silva</h3>
-
-- 🔭Formação: Cursando Desenvolvimento de SoUware MulIplataforma – Fatec - SJC
+ 
+- Formação: Cursando Desenvolvimento de SoUware MulIplataforma – Fatec - SJC
 
 - Objetivo: "Me especializar na área de Desenvolvimento de Software Multiplataforma, sendo Full-Stack."
 
@@ -13,9 +13,9 @@
  - Desenvolvimento de Jogos - Saga - Sjc (2018 - 2021)
  - Desenvolvimento de Sites - Senai - Sjc (2021 - 2021)
   
-- 📫 Contatos: **gabriel360pam@gmail.com**
+- Contatos: **gabriel360pam@gmail.com**
 
-- ⚡ Passatempos **Eu gosto de montar "Cubos Mágicos" e aprender coisas novas**
+- Passatempos **Eu gosto de montar "Cubos Mágicos" e aprender coisas novas**
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
