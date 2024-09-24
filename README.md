@@ -19,6 +19,9 @@
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
+<a href="https://bsky.app/profile/mousseuwu.bsky.social" target="blank"><img align="center" src="https://seeklogo.com/images/B/bluesky-social-logo-75CF77F3F7-seeklogo.com.png" alt="." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-robert-123ba7258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a>
+<a href="https://www.instagram.com/littler0b?igsh=MXN4OTBvNWJ0ODBmMw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
